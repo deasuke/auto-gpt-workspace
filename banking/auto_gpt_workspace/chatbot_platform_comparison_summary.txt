@@ -1,0 +1,27 @@
+After comparing the features and pricing of the chatbot platforms Netomi, Tidio, Haptik, Inbenta, Insider Intelligence, and Emerj, here is a summary of the most important information:
+
+1. Netomi: 
+- Features: AI-powered chatbots, omnichannel support, customizable chatbots, analytics and reporting, integrations with popular CRMs and messaging platforms.
+- Pricing: Custom pricing based on business needs.
+
+2. Tidio: 
+- Features: AI-powered chatbots, live chat, email integration, mobile app, customizable chatbots, integrations with popular CRMs and messaging platforms.
+- Pricing: Free plan available, paid plans start at $18/month.
+
+3. Haptik: 
+- Features: AI-powered chatbots, voice assistants, omnichannel support, customizable chatbots, analytics and reporting, integrations with popular CRMs and messaging platforms.
+- Pricing: Custom pricing based on business needs.
+
+4. Inbenta: 
+- Features: AI-powered chatbots, natural language processing, omnichannel support, customizable chatbots, analytics and reporting, integrations with popular CRMs and messaging platforms.
+- Pricing: Custom pricing based on business needs.
+
+5. Insider Intelligence: 
+- Features: AI-powered chatbots, omnichannel support, customizable chatbots, analytics and reporting, integrations with popular CRMs and messaging platforms.
+- Pricing: Custom pricing based on business needs.
+
+6. Emerj: 
+- Features: AI-powered chatbots, natural language processing, omnichannel support, customizable chatbots, analytics and reporting, integrations with popular CRMs and messaging platforms.
+- Pricing: Custom pricing based on business needs.
+
+Overall, all of these chatbot platforms offer similar features and pricing structures. The main differences are in the specific AI and customization capabilities, as well as the level of customer support provided. It is recommended to evaluate each platform based on individual business needs and goals.
